@@ -20,6 +20,7 @@
 //
 // The above arrows point to positions where the corresponding bits are different.
 // https://en.wikipedia.org/wiki/Hamming_distance
+//Bitewise opertor: https://www.tutorialspoint.com/java/java_bitwise_operators_examples.htm
 
 public class Solution {
     public int hammingDistance(int x, int y) {
