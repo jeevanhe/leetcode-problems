@@ -306,3 +306,5 @@ int main () {
   std::cout << (foo.size()-foo.count()) << " zeros.\n";
   return 0;
 }
+============================================================================
+https://www.cs.cornell.edu/~tomf/notes/cps104/twoscomp.html
