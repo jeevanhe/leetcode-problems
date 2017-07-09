@@ -61,3 +61,4 @@ public class Solution {
 //https://discuss.leetcode.com/topic/88508/java-solution-tree-traversal
 //Stack
 //https://discuss.leetcode.com/topic/88700/easy-o-n-java-solution-using-preorder-traversal
+//Editorial Solution: https://leetcode.com/articles/subtree-of-another-tree/
